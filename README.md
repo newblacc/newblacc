@@ -1,4 +1,4 @@
-## Maxime Roy · `newblacc`
+## Maxime Roy
 
 Software engineer · **C++ · Qt · medical-device & regulated software**.
 Operator of **[@artificemachine](https://github.com/artificemachine)** — a small
