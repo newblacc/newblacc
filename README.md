@@ -1,7 +1,7 @@
 ## Maxime Roy
 
-Software engineer · **C++/Qt · machine vision, imaging & FDA-cleared medical devices**.
-Operator of **[@artificemachine](https://github.com/artificemachine)**, a small
-workshop for AI developer tooling & security pipelines.
+Software & AI Engineer. Background: C++/Qt desktop applications, CI/CD, machine vision, imaging and medical-device software.
 
-Earlier work: [@celstnblacc](https://github.com/celstnblacc) · 🔗 [artificemachine.com](https://artificemachine.com)
+**[@artificemachine](https://github.com/artificemachine)** is my personal project for my own AI work.
+
+🔗 [artificemachine.com](https://artificemachine.com)
